@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Shameless braindumps of a wanderer."
+title                    : "Critical Acclaim."
 title_separator          : "-"
 name                     : "Arian Xhezairi"
 description              : "An amazing website."
@@ -82,12 +82,12 @@ author:
   bio              : "I am an amazing person."
   location         : "Prizren, Kosova"
   email            :
-  uri              :
+  uri              : "xhezairi.com"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "xhezairia"
   foursquare       :
   github           : "xhezairi"
   google_plus      :
