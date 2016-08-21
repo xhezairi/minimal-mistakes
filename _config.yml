@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Shameless braindumps of a wanderer."
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "Arian Xhezairi"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -77,10 +77,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Arian Xhezairi"
   avatar           : "bio-photo.jpg"
   bio              : "I am an amazing person."
-  location         : "Somewhere"
+  location         : "Prizren, Kosova"
   email            :
   uri              :
   bitbucket        :
@@ -89,10 +89,10 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "xhezairi"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "xhezairi"
   lastfm           :
   linkedin         :
   pinterest        :
